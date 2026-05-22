@@ -2,19 +2,19 @@
 🚀 Transforming the Loan Approval Process in Sri Lanka with Machine Learning
 
 
-[cite_start]An end-to-end Machine Learning solution designed to automate and accelerate the credit evaluation process, specifically addressing real-world operational inefficiencies in retail banking[cite: 7].
+An end-to-end Machine Learning solution designed to automate and accelerate the credit evaluation process, specifically addressing real-world operational inefficiencies in retail banking.
 
 ## 📌 Project Overview & Context
 
 In traditional banking ecosystems—and specifically within **Sri Lanka**—securing a bank loan is often a highly time-consuming, manual, and tedious process. Applicants face extensive waiting times, manual paperwork verification, and prolonged decision cycles. For busy individuals, especially entrepreneurs and small business owners, these delays represent significant operational bottlenecks.
 
-[cite_start]This project introduces an automated **Loan Eligibility Prediction Model** that instantly evaluates an applicant's financial and demographic indicators to predict loan approval[cite: 10]. [cite_start]Developed as a core assignment for the **Artificial Intelligence & Machine Learning (IT2011)** module during Year 2, Semester 1 at SLIIT [cite: 3][cite_start], this system utilizes a robust machine learning pipeline to deliver fast, objective, and accurate credit decisions[cite: 7, 64].
+This project introduces an automated **Loan Eligibility Prediction Model** that instantly evaluates an applicant's financial and demographic indicators to predict loan approval. Developed as a core assignment for the **Artificial Intelligence & Machine Learning (IT2011)** module during Year 2, Semester 1 at SLIIT, this system utilizes a robust machine learning pipeline to deliver fast, objective, and accurate credit decisions.
 
 ---
 
 ## 🛠️ Machine Learning Pipeline Architecture
 
-[cite_start]To guarantee reproducible, reliable, and leak-free performance, the entire workflow is enclosed within a scikit-learn pipeline object (`Imputation` ➡️ `Encoding` ➡️ `Scaling` ➡️ `Estimator`)[cite: 64, 106].
+To guarantee reproducible, reliable, and leak-free performance, the entire workflow is enclosed within a scikit-learn pipeline object (`Imputation` ➡️ `Encoding` ➡️ `Scaling` ➡️ `Estimator`).
 
 ### 1. Preprocessing & EDA
 * [cite_start]**Data Cleaning & Imputation:** Inspected missingness patterns and recorded column-level issues to guide safe imputation workflows[cite: 33].
